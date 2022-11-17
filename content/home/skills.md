@@ -2,6 +2,7 @@
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: features
+active: false
 
 # This file represents a page section.
 headless: true
@@ -16,10 +17,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
+  - description: Programming
+    icon: python
+    icon_pack: fas
+    name: Python
   - description: 100%
     icon: chart-line
     icon_pack: fas

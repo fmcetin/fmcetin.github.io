@@ -2,6 +2,7 @@
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
+active: false
 
 # This file represents a page section.
 headless: true
@@ -25,7 +26,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: org-gc
+    company_logo: k-purple
     location: California
     date_start: '2021-01-01'
     date_end: ''

@@ -7,20 +7,20 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Education
+    url: '#education'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Research
+    url: '#research'
     weight: 30
-  - name: Talks
+  - name: Media
     url: '#talks'
     weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: Other Publications
+    url: '#publications'
     weight: 50
-  - name: Contact
-    url: '#contact'
+  - name: "Honors & Awards"
+    url: '#accomplishments'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.

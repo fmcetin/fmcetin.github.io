@@ -36,7 +36,7 @@ education:
       institution: Northwestern University
       year: 2018
     - course: BSc in Industrial Engineering
-      institution: Massachusetts Institute of Technology
+      institution: Middle East Technical University
       year: 2017
 
 # Social/Academic Networking
@@ -46,9 +46,9 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    link: 'mailto:furkan.cetin@kellogg.northwestern.edu'
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=-b0bUqUAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/fmc_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'furkan.cetin@kellogg.northwestern.edu'
@@ -71,6 +71,6 @@ email: 'furkan.cetin@kellogg.northwestern.edu'
 highlight_name: true
 ---
 
-Hi! I am Furkan Cetin, a 5th year PhD Candidate in the Accounting Information and Management department at Kellogg School of Management, Northwestern University. I am on the job market this year and will be in Miami Rookie Camp. 
+I am Furkan Cetin, a 5th year PhD Candidate in the Accounting Information and Management department at Kellogg School of Management, Northwestern University. I am on the job market this year and will be in Miami Rookie Camp. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}. -->
