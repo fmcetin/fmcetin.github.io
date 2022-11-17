@@ -1,5 +1,5 @@
 ---
-title: Job Martket Paper in 7 Minute
+title: Job Market Paper in 7 Minutes
 
 event: Seven Minutes of Scholarship, An Interdisciplinary Symposium
 # event_url: https://example.org
