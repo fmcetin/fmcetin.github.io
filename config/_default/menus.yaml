@@ -19,7 +19,7 @@ main:
   - name: Other Publications
     url: '#publications'
     weight: 50
-  - name: "Honors & Awards"
+  - name: "Awards & Honors"
     url: '#accomplishments'
     weight: 60
 

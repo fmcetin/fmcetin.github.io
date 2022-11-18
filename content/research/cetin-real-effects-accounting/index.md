@@ -4,8 +4,10 @@
 title: 'The Real Effects of Accounting on Innovation: Evidence from ASC 606'
 subtitle: ''
 summary: ''
+weight: 1
 authors:
 - Furkan Mustafa Cetin
+publication_short: "*Job Market Paper* | R&R at *The Accounting Review* "
 tags: []
 categories: []
 date: 2022-11-01
@@ -47,4 +49,7 @@ abstract: This study investigates the impact of the recent revenue recognition r
   a specific and concrete mechanism of the real effects of a specific financial reporting
   standard on R&D alliances and innovation outcomes.
 publication: ''
+links:
+  - name: "Presentation in Interdisciplinary Symposium"
+    url: "https://youtu.be/-dG5s0ejkdQ"
 ---

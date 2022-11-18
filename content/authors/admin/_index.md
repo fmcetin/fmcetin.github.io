@@ -63,6 +63,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/fmc_cv.pdf
+    newtab: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'furkan.cetin@kellogg.northwestern.edu'
@@ -73,4 +74,4 @@ highlight_name: true
 
 I am Furkan Cetin, a 5th year PhD Candidate in the Accounting Information and Management department at Kellogg School of Management, Northwestern University. I am on the job market this year and will be in Miami Rookie Camp. 
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}. -->
+{{< icon name="video" pack="fas" >}} My {{< staticref "https://youtu.be/-dG5s0ejkdQ" "newtab" >}}job market paper presentation{{< /staticref >}} to the general public in "Seven Minutes of Scholarship, An Interdisciplinary Symposium".

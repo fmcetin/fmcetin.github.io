@@ -39,4 +39,4 @@ slides: ""
 projects : []
 ---
 
-{{< video src="https://www.dropbox.com/s/ogbtqphv1vfghaf/03_Evanston_Furkan_Export.mp4?dl=1" controls="yes" >}}
+{{< youtube dG5s0ejkdQ >}}

@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Honors & Awards'
+title: 'Awards & Honors'
 subtitle:
 
 # Date format
