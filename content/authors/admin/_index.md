@@ -74,4 +74,6 @@ highlight_name: true
 
 I am Furkan Cetin, a 5th year PhD Candidate in the Accounting Information and Management department at Kellogg School of Management, Northwestern University. I am on the job market this year and will be in Miami Rookie Camp. 
 
+{{< icon name="download" pack="fas" >}} My {{< staticref "uploads/cetin-real-effects-accounting.pdf" "newtab" >}}job market paper{{< /staticref >}}, "The Real Effects of Accounting on Innovation: Evidence from ASC 606".
+
 {{< icon name="video" pack="fas" >}} My {{< staticref "https://youtu.be/-dG5s0ejkdQ" "newtab" >}}job market paper presentation{{< /staticref >}} to the general public in "Seven Minutes of Scholarship, An Interdisciplinary Symposium".

@@ -90,7 +90,7 @@ item:
     date_end: ''
     date_start: '2011-05-25'
     description: 'Taking first place in Istanbul, Turkey with the project done in Prof. Adil Denizli'
-    organization: 20th International MEF-EBAV Project Competition
+    organization: 20th International MEF EBAV Project Competition
     organization_url: 
     title: First Place
     url: ''
