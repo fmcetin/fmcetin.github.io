@@ -72,7 +72,7 @@ email: 'furkan.cetin@kellogg.northwestern.edu'
 highlight_name: true
 ---
 
-I am Furkan Cetin, a 5th year PhD Candidate in the Accounting Information and Management department at Kellogg School of Management, Northwestern University. I am on the job market this year and will be in Miami Rookie Camp. 
+I am Furkan Cetin, a 5th year PhD Candidate in the Accounting Information and Management department at Kellogg School of Management, Northwestern University. I am thrilled that I am joining the London School of Economics as an Assistant Professor of Accounting in July! 
 
 {{< icon name="download" pack="fas" >}} My {{< staticref "uploads/cetin-real-effects-accounting.pdf" "newtab" >}}job market paper{{< /staticref >}}, "The Real Effects of Accounting on Innovation: Evidence from ASC 606".
 
