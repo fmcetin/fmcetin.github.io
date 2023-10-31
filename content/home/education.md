@@ -30,7 +30,7 @@ experience:
     date_start: '2018-09-01'
     date_end: '2023-06-17'
     description: |2-
-        **Thesis Proposal**: The Real Effects of Accounting on Innovation
+        **Thesis**: The Real Effects of Accounting on Innovation
         
         **Committee**: Andrew Leone (Co-Chair), Sugata Roychowdhury (Co-Chair), Beverly Walther, Ronald Dye, Dimitris Papanikolaou
 

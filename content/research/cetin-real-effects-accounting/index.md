@@ -7,7 +7,7 @@ summary: ''
 weight: 1
 authors:
 - Furkan Mustafa Cetin
-publication_short: "*Job Market Paper* | R&R at *The Accounting Review* "
+publication_short: "R&R at *The Accounting Review* "
 tags: []
 categories: []
 date: 2022-11-01

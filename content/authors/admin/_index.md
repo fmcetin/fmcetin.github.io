@@ -10,12 +10,12 @@ last_name: Cetin
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Kellogg School of Management, Northwestern University
-    url: https://kelloggphds.northwestern.edu/furkan-cetin/
+  - name: London School of Economics
+    url: https://www.lse.ac.uk/accounting/people/Furkin-Cetin/Furkan-Cetin
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include financial accounting, real effects of accounting, innovation
@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Accounting Information and Management
       institution: Kellogg School of Management, Northwestern University
-      year: 2023 (expected)
+      year: 2023
     - course: MSc in Chemistry
       institution: Northwestern University
       year: 2018
@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:furkan.cetin@kellogg.northwestern.edu'
+    link: 'mailto:f.m.cetin@lse.ac.uk'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=-b0bUqUAAAAJ&hl=en&oi=ao
@@ -66,14 +66,10 @@ social:
     newtab: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'furkan.cetin@kellogg.northwestern.edu'
+email: 'f.m.cetin@lse.ac.uk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am Furkan Cetin, a 5th year PhD Candidate in the Accounting Information and Management department at Kellogg School of Management, Northwestern University. I am thrilled that I am joining the London School of Economics as an Assistant Professor of Accounting in July! 
-
-{{< icon name="download" pack="fas" >}} My {{< staticref "uploads/cetin-real-effects-accounting.pdf" "newtab" >}}job market paper{{< /staticref >}}, "The Real Effects of Accounting on Innovation: Evidence from ASC 606".
-
-{{< icon name="video" pack="fas" >}} My {{< staticref "https://youtu.be/-dG5s0ejkdQ" "newtab" >}}job market paper presentation{{< /staticref >}} to the general public in "Seven Minutes of Scholarship, An Interdisciplinary Symposium".
+I am Furkan Cetin, an Assistant Professor at London School of Economics.
