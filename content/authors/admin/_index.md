@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/fmc_cv.pdf
+    link: 
     newtab: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
