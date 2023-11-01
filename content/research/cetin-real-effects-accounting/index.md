@@ -4,7 +4,7 @@
 title: 'The Real Effects of Accounting on Innovation: Evidence from ASC 606'
 subtitle: ''
 summary: ''
-weight: 1
+weight: 2
 authors:
 - Furkan Mustafa Cetin
 publication_short: "R&R at *The Accounting Review* "

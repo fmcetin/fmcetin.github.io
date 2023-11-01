@@ -13,7 +13,7 @@ date: 2023-10-15
 lastmod: 2023-10-15T18:57:39-06:00
 featured: false
 draft: false
-weight: 3
+weight: 1
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
