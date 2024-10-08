@@ -65,7 +65,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://www.dropbox.com/scl/fi/agecccy2x9zwvou0sfna9/my_cv.pdf?rlkey=bgacrklhs9prd4ytpmij12qjj&dl=0
+    link: https://www.dropbox.com/scl/fi/g5fllvsbcocefs1kw09j1/my_cv.pdf?rlkey=8bnjczoecmzqib03o63hk8bp7&st=36atzf8c&dl=0
     newtab: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
