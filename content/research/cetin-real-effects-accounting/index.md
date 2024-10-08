@@ -28,7 +28,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-1500:57:39.099294Z'
 publication_types: ['3']
 abstract: This study investigates the impact of the recent revenue recognition rule
   change, Accounting Standard Codification (ASC) 606, on drug development firms' investments

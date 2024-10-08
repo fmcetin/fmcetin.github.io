@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: earth
-  theme_night: earth
+  theme_day: rose
+  theme_night: rose
   font: minimal
   font_size: L
 
@@ -21,7 +21,7 @@ marketing:
     description: 'Furkan Cetin Personal Website'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-1CGQ8DL0L4'
     baidu_tongji: ''
   verification:
     google: ''
