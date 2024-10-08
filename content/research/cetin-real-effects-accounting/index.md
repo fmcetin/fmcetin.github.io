@@ -49,8 +49,9 @@ abstract: This study investigates the impact of the recent revenue recognition r
   standard on R&D alliances and innovation outcomes.
 publication: ''
 
-url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4609780"
 links:
+  - name: "SSRN"
+    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4609780"
   - name: "Presentation in Interdisciplinary Symposium"
     url: "https://youtu.be/-dG5s0ejkdQ"
 ---
