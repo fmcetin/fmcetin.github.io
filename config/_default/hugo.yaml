@@ -20,6 +20,7 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
+
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
