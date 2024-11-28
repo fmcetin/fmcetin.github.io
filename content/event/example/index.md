@@ -22,7 +22,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-url_video: 'https://www.dropbox.com/s/ogbtqphv1vfghaf/03_Evanston_Furkan_Export.mp4?dl=0'
+url_video: 'https://www.youtube.com/watch?v=-dG5s0ejkdQ'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
