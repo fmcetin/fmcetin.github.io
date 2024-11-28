@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Practical Guide for the Academic Accounting Job Market: My Experience'
+title: 'Navigating the Academic Accounting Job Market: A Practical Guide from My Experience'
 subtitle: ''
 summary: ''
 authors:
